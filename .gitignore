@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# Large raw datasets are not committed; see data/README.md
+data/*.csv
